@@ -1,0 +1,4 @@
+dist/
+epub.js*
+*.gz
+node_modules/

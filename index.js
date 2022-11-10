@@ -1,0 +1,1 @@
+export * from 'epub.js/src/index.js'
